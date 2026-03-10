@@ -49,3 +49,7 @@ Client → API → CRM Layer → AI Service → Database
 - Salesforce REST API integration
 - Einstein AI insights
 - Automation using Flow
+
+## System Architecture
+
+![Architecture](docs/architecture.png)
