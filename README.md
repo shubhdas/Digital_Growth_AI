@@ -173,7 +173,7 @@ This flow demonstrates how AI assisted engagement can integrate with CRM process
 
 ### Service Website
 
-![Service Portal](docs/screenshots/service-portal.png)
+![Service Portal](docs/screenshots/service-website.png)
 
 ### AI Chatbot Interaction
 
